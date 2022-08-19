@@ -1,2 +1,2 @@
-# djangoo_blog
+# django_blog
 Оживляем блог
